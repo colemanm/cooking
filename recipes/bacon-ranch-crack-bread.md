@@ -15,7 +15,7 @@ source: http://www.plainchicken.com/2011/07/cheddar-bacon-ranch-pulls.html
 img: "/img/crack-bread.jpg"
 ---
 
-<img src='/img/crack-bread.jpg' alt='crack bread' />
+![Crack bread](http://farm6.staticflickr.com/5548/10697610715_5472dd2de9_z.jpg)
 
 This bread is unreal. Make it.
 
