@@ -11,7 +11,8 @@ style:
  - bread
  - snack
 
-source: http://www.plainchicken.com/2011/07/cheddar-bacon-ranch-pulls.html
+source: Plain Chicken
+source_url: http://www.plainchicken.com/2011/07/cheddar-bacon-ranch-pulls.html
 img: "/img/crack-bread.jpg"
 ---
 
